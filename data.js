@@ -71,9 +71,9 @@ async function melumatlariGetir() {
 
 /* "fetch" - bizə "Promis" qaytarır.
     Promisin 3 növü var:
-    1. Pending  -   Gözləmədədir
-    2. Fulfilled    -   
-    3. Reject   -   
+    1. Pending    -   Gözləmədədir
+    2. Fulfilled  -   Yerinə yetirilmişdir
+    3. Reject     -   İmtina edilmişdir
 
 */      console.log(responseCavab)
 /* Gələn məlumatlar "responseCavab" dəyişəninə gəldikdən sonra bu məlumatı frontendlə backendin başa
